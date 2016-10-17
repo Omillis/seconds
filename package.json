@@ -1,6 +1,6 @@
 {
   "name": "@saadshahd/seconds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get milliseconds from seconds",
   "main": "index.js",
   "repository": {
